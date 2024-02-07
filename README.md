@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on os
+- 🌱 I’m currently learning make a os
+- 📫 How to reach me: email 3398817447@qq.com qq:398817447
+
 <!--
 **AuroraRealm/AuroraRealm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
